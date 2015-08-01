@@ -16,7 +16,7 @@ $ git clone https://github.com/matthewoden/LambdaOnTheLoop.git
 $ npm install
 $ webpack
 ```
-This will clone the repo, install your dependancies, and compile the source. But (currently) the method doesn't run locally. Mocking up an AWS event/context handler is on the list.
+This will clone the repo, install your dependancies, and compile the source. But (currently) the method doesn't run locally. Mocking up an AWS event/context handler is on the list. Until then, you'll have to upload the file to your AWS account, and test within the service.
 
 ## Roadmap
 - Remove Caching. AWS is purely functional. Caching layers belong elsewhere.
