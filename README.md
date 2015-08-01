@@ -1,7 +1,7 @@
 # Lambda on the Loop
 _"Lunch as a microservice"_
 
-I work on the Delmar Loop in Saint Louis, MO. It's home to a ridiculous supply of restaraunts, which means our office has the firstest of first-world problems: _What do we eat for lunch?_
+I work on the Delmar Loop in Saint Louis, MO. It's home to a ridiculous supply of restaurants, which means our office has the firstest of first-world problems: _What do we eat for lunch?_
 
 That's where Lunch on the Loop (AWS Lambda) comes in. It kicks analysis paralysis in the face, and make a lunch decision for you.
 
