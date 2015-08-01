@@ -1,0 +1,18 @@
+{
+  "ecmaFeatures": {
+    "modules": true
+  },
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "strict": 0,
+    "curly": 0,
+    "quotes": [1, "single"],
+    "new-cap": 1,
+    "no-multi-spaces": 0,
+    "no-unused-vars": 1,
+  },
+  "parser": "babel-eslint",
+}

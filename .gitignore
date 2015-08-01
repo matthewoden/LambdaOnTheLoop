@@ -1,0 +1,29 @@
+*~
+# Build results
+
+
+# Others
+*.Cache
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# seeeeeecrets
+# src/config/local.env.js
+credentials.csv
+
+# Mac detritus
+.DS_Store
+
+*/node_modules/*
+.node_modules/*
+node_modules/*
+
+npm-debug.log
